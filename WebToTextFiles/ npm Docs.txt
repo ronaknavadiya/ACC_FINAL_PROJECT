@@ -1,0 +1,2 @@
+https://docs.npmjs.com
+npm Docs Skip to content npm Docs npmjs.comStatusSupport About npm Getting started Packages and modules Integrations Organizations Policies npm CLI npm Docs Documentation for the npm registry, website, and command-line interface About npm Getting started Packages and modules Integrations Organizations Policies npm CLI
